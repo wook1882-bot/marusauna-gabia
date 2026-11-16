@@ -1,0 +1,1 @@
+import{n as e,t}from"./site-page-DLKOCDim.js";import{i as n}from"./index-CuEUmRWJ.js";var r=n(),i=function(){return(0,r.jsx)(t,{copy:e,page:`home`})};export{i as component};
