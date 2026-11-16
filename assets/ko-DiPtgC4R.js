@@ -1,0 +1,1 @@
+import{a as e,r as t}from"./index-oxL_qAGr.js";var n=e(),r=function(){return(0,n.jsx)(t,{})};export{r as component};
