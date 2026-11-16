@@ -1,9 +1,14 @@
 DirectoryIndex index.html
 AddDefaultCharset UTF-8
+ErrorDocument 404 /404.html
+
 RewriteEngine On
 RewriteRule ^ja/?$ / [R=301,L]
 RewriteRule ^ja/(about|pricing|gallery|access)/?$ /$1/ [R=301,L]
+
 RewriteCond %{REQUEST_FILENAME} -f [OR]
 RewriteCond %{REQUEST_FILENAME} -d
 RewriteRule ^ - [L]
-RewriteRule ^(.+?)/?$ $1/index.html [L]
+
+RewriteCond %{DOCUMENT_ROOT}/$1/index.html -f
+RewriteRule ^(.+?)/?$ /$1/index.html [L]
