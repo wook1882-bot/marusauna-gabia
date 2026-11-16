@@ -1,1 +1,0 @@
-import{r as e,t}from"./site-page-Cst5sTpI.js";import{a as n}from"./index-CuWJrOxI.js";var r=n(),i=function(){return(0,r.jsx)(t,{copy:e,page:`access`})};export{i as component};
