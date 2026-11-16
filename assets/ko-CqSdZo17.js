@@ -1,0 +1,1 @@
+import{a as e,r as t}from"./index-B6wiII1-.js";var n=e(),r=function(){return(0,n.jsx)(t,{})};export{r as component};
