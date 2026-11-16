@@ -1,1 +1,0 @@
-import{r as e,t}from"./site-page-B0hta_jK.js";import{a as n}from"./index-Dh2UNkf2.js";var r=n(),i=function(){return(0,r.jsx)(t,{copy:e,page:`access`})};export{i as component};
