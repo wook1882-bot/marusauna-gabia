@@ -5,6 +5,7 @@
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <title>ページが見つかりません | MARU SPA & SAUNA</title>
   <meta name="robots" content="noindex">
+  <link rel="preload" href="/fonts/noto-sans-jp-400.woff2" as="font" type="font/woff2" crossorigin>
   <link rel="icon" href="/favicon.ico" sizes="32x32">
   <style>
     @font-face {
@@ -17,9 +18,9 @@
     @font-face {
       font-family: "Paperlogy";
       font-style: normal;
-      font-weight: 300;
+      font-weight: 400;
       font-display: swap;
-      src: url("/fonts/paperlogy-3light.woff2") format("woff2");
+      src: url("/fonts/paperlogy-4regular.woff2") format("woff2");
     }
     @font-face {
       font-family: "Paperlogy";
@@ -28,13 +29,22 @@
       font-display: swap;
       src: url("/fonts/paperlogy-5medium.woff2") format("woff2");
     }
+    @font-face {
+      font-family: "Noto Sans JP";
+      font-style: normal;
+      font-weight: 400;
+      font-display: swap;
+      unicode-range: U+2026, U+3000-303F, U+3040-30FF, U+4E00-9FFF, U+FF00-FFEF;
+      src: url("/fonts/noto-sans-jp-400.woff2") format("woff2");
+    }
     * { box-sizing: border-box; }
     html, body { margin: 0; min-height: 100%; }
     body {
       background: #fafaf8;
       color: #111;
-      font-family: "Paperlogy", "Hiragino Sans", "Noto Sans KR", sans-serif;
-      font-weight: 300;
+      font-family: "Paperlogy", "Noto Sans JP", system-ui, sans-serif;
+      font-weight: 400;
+      font-synthesis: none;
     }
     a { color: inherit; text-decoration: none; }
     header {
