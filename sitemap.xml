@@ -2,72 +2,72 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>https://marusauna.com/</loc>
-    <lastmod>2026-11-15</lastmod>
+    <lastmod>2026-11-17</lastmod>
     <xhtml:link rel="alternate" hreflang="ja" href="https://marusauna.com/"/>
     <xhtml:link rel="alternate" hreflang="ko" href="https://marusauna.com/ko"/>
     <xhtml:link rel="alternate" hreflang="x-default" href="https://marusauna.com/"/>
   </url>
   <url>
     <loc>https://marusauna.com/ko</loc>
-    <lastmod>2026-11-15</lastmod>
+    <lastmod>2026-11-17</lastmod>
     <xhtml:link rel="alternate" hreflang="ja" href="https://marusauna.com/"/>
     <xhtml:link rel="alternate" hreflang="ko" href="https://marusauna.com/ko"/>
     <xhtml:link rel="alternate" hreflang="x-default" href="https://marusauna.com/"/>
   </url>
   <url>
-    <loc>https://marusauna.com/ja/about</loc>
-    <lastmod>2026-11-15</lastmod>
-    <xhtml:link rel="alternate" hreflang="ja" href="https://marusauna.com/ja/about"/>
-    <xhtml:link rel="alternate" hreflang="ko" href="https://marusauna.com/about"/>
-    <xhtml:link rel="alternate" hreflang="x-default" href="https://marusauna.com/ja/about"/>
-  </url>
-  <url>
     <loc>https://marusauna.com/about</loc>
-    <lastmod>2026-11-15</lastmod>
-    <xhtml:link rel="alternate" hreflang="ja" href="https://marusauna.com/ja/about"/>
-    <xhtml:link rel="alternate" hreflang="ko" href="https://marusauna.com/about"/>
-    <xhtml:link rel="alternate" hreflang="x-default" href="https://marusauna.com/ja/about"/>
+    <lastmod>2026-11-17</lastmod>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://marusauna.com/about"/>
+    <xhtml:link rel="alternate" hreflang="ko" href="https://marusauna.com/ko/about"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://marusauna.com/about"/>
   </url>
   <url>
-    <loc>https://marusauna.com/ja/pricing</loc>
-    <lastmod>2026-11-15</lastmod>
-    <xhtml:link rel="alternate" hreflang="ja" href="https://marusauna.com/ja/pricing"/>
-    <xhtml:link rel="alternate" hreflang="ko" href="https://marusauna.com/pricing"/>
-    <xhtml:link rel="alternate" hreflang="x-default" href="https://marusauna.com/ja/pricing"/>
+    <loc>https://marusauna.com/ko/about</loc>
+    <lastmod>2026-11-17</lastmod>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://marusauna.com/about"/>
+    <xhtml:link rel="alternate" hreflang="ko" href="https://marusauna.com/ko/about"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://marusauna.com/about"/>
   </url>
   <url>
     <loc>https://marusauna.com/pricing</loc>
-    <lastmod>2026-11-15</lastmod>
-    <xhtml:link rel="alternate" hreflang="ja" href="https://marusauna.com/ja/pricing"/>
-    <xhtml:link rel="alternate" hreflang="ko" href="https://marusauna.com/pricing"/>
-    <xhtml:link rel="alternate" hreflang="x-default" href="https://marusauna.com/ja/pricing"/>
+    <lastmod>2026-11-17</lastmod>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://marusauna.com/pricing"/>
+    <xhtml:link rel="alternate" hreflang="ko" href="https://marusauna.com/ko/pricing"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://marusauna.com/pricing"/>
   </url>
   <url>
-    <loc>https://marusauna.com/ja/gallery</loc>
-    <lastmod>2026-11-15</lastmod>
-    <xhtml:link rel="alternate" hreflang="ja" href="https://marusauna.com/ja/gallery"/>
-    <xhtml:link rel="alternate" hreflang="ko" href="https://marusauna.com/gallery"/>
-    <xhtml:link rel="alternate" hreflang="x-default" href="https://marusauna.com/ja/gallery"/>
+    <loc>https://marusauna.com/ko/pricing</loc>
+    <lastmod>2026-11-17</lastmod>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://marusauna.com/pricing"/>
+    <xhtml:link rel="alternate" hreflang="ko" href="https://marusauna.com/ko/pricing"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://marusauna.com/pricing"/>
   </url>
   <url>
     <loc>https://marusauna.com/gallery</loc>
-    <lastmod>2026-11-15</lastmod>
-    <xhtml:link rel="alternate" hreflang="ja" href="https://marusauna.com/ja/gallery"/>
-    <xhtml:link rel="alternate" hreflang="ko" href="https://marusauna.com/gallery"/>
-    <xhtml:link rel="alternate" hreflang="x-default" href="https://marusauna.com/ja/gallery"/>
+    <lastmod>2026-11-17</lastmod>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://marusauna.com/gallery"/>
+    <xhtml:link rel="alternate" hreflang="ko" href="https://marusauna.com/ko/gallery"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://marusauna.com/gallery"/>
   </url>
   <url>
-    <loc>https://marusauna.com/ja/access</loc>
-    <lastmod>2026-11-15</lastmod>
-    <xhtml:link rel="alternate" hreflang="ja" href="https://marusauna.com/ja/access"/>
-    <xhtml:link rel="alternate" hreflang="ko" href="https://marusauna.com/access"/>
-    <xhtml:link rel="alternate" hreflang="x-default" href="https://marusauna.com/ja/access"/>
+    <loc>https://marusauna.com/ko/gallery</loc>
+    <lastmod>2026-11-17</lastmod>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://marusauna.com/gallery"/>
+    <xhtml:link rel="alternate" hreflang="ko" href="https://marusauna.com/ko/gallery"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://marusauna.com/gallery"/>
   </url>
   <url>
     <loc>https://marusauna.com/access</loc>
-    <lastmod>2026-11-15</lastmod>
-    <xhtml:link rel="alternate" hreflang="ja" href="https://marusauna.com/ja/access"/>
-    <xhtml:link rel="alternate" hreflang="ko" href="https://marusauna.com/access"/>
-    <xhtml:link rel="alternate" hreflang="x-default" href="https://marusauna.com/ja/access"/>
+    <lastmod>2026-11-17</lastmod>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://marusauna.com/access"/>
+    <xhtml:link rel="alternate" hreflang="ko" href="https://marusauna.com/ko/access"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://marusauna.com/access"/>
+  </url>
+  <url>
+    <loc>https://marusauna.com/ko/access</loc>
+    <lastmod>2026-11-17</lastmod>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://marusauna.com/access"/>
+    <xhtml:link rel="alternate" hreflang="ko" href="https://marusauna.com/ko/access"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://marusauna.com/access"/>
   </url>
 </urlset>

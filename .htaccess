@@ -2,6 +2,7 @@ DirectoryIndex index.html
 AddDefaultCharset UTF-8
 RewriteEngine On
 RewriteRule ^ja/?$ / [R=301,L]
+RewriteRule ^ja/(about|pricing|gallery|access)/?$ /$1/ [R=301,L]
 RewriteCond %{REQUEST_FILENAME} -f [OR]
 RewriteCond %{REQUEST_FILENAME} -d
 RewriteRule ^ - [L]
