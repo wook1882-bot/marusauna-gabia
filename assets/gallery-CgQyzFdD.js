@@ -1,0 +1,1 @@
+import{r as e,t}from"./site-page-CsJ1V-eh.js";import{a as n}from"./index-LEDmqGvu.js";var r=n(),i=function(){return(0,r.jsx)(t,{copy:e,page:`gallery`})};export{i as component};
