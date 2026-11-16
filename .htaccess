@@ -1,6 +1,7 @@
 DirectoryIndex index.html
 AddDefaultCharset UTF-8
 ErrorDocument 404 /404.html
+DirectorySlash Off
 
 <IfModule mod_headers.c>
   Header always set X-Content-Type-Options "nosniff"
@@ -26,11 +27,14 @@ RewriteRule ^ https://marusauna.com%{REQUEST_URI} [R=301,L]
 RewriteCond %{HTTP:X-Forwarded-Proto} ^$
 RewriteCond %{HTTPS} !=on
 RewriteRule ^ https://marusauna.com%{REQUEST_URI} [R=301,L]
-RewriteRule ^ja/?$ / [R=301,L]
-RewriteRule ^ja/(about|pricing|gallery|access)/?$ /$1/ [R=301,L]
 
-RewriteCond %{REQUEST_FILENAME} -f [OR]
-RewriteCond %{REQUEST_FILENAME} -d
+RewriteCond %{DOCUMENT_ROOT}/$1/index.html -f
+RewriteRule ^(.+)/$ https://marusauna.com/$1 [R=301,L]
+
+RewriteRule ^ja/?$ https://marusauna.com/ [R=301,L]
+RewriteRule ^ja/(about|pricing|gallery|access)/?$ https://marusauna.com/$1 [R=301,L]
+
+RewriteCond %{REQUEST_FILENAME} -f
 RewriteRule ^ - [L]
 
 RewriteCond %{DOCUMENT_ROOT}/$1/index.html -f
