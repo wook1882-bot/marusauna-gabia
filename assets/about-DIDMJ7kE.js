@@ -1,1 +1,0 @@
-import{n as e,t}from"./site-page-FdIOGpUh.js";import{a as n}from"./index-CiGu24qJ.js";var r=n(),i=function(){return(0,r.jsx)(t,{copy:e,page:`about`})};export{i as component};
