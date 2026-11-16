@@ -1,0 +1,1 @@
+import{n as e,t}from"./site-page-pDqVXm9_.js";import{a as n}from"./index-Co3KvQcq.js";var r=n(),i=function(){return(0,r.jsx)(t,{copy:e,page:`home`})};export{i as component};
