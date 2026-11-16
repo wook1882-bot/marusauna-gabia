@@ -1,0 +1,1 @@
+import{r as e,t}from"./site-page-83v1pe6s.js";import{i as n}from"./index-DGW46aCu.js";var r=n(),i=function(){return(0,r.jsx)(t,{copy:e,page:`gallery`})};export{i as component};
