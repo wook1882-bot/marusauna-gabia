@@ -1,1 +1,0 @@
-import{a as e,r as t}from"./index-B0jI2n25.js";var n=e(),r=function(){return(0,n.jsx)(t,{})};export{r as component};

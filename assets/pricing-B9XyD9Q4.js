@@ -1,0 +1,1 @@
+import{n as e,t}from"./site-page-DQOGCZCz.js";import{a as n}from"./index-CpzLYy54.js";var r=n(),i=function(){return(0,r.jsx)(t,{copy:e,page:`pricing`})};export{i as component};
